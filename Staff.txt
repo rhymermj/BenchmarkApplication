@@ -1,0 +1,6 @@
+﻿Claire, 1001, 01/01/2001, claire@email.com, Intern, 55000
+Cameron, 1002, 19/12/1990, cameron@email.com, Team Leader, 65000
+Sam, 1003, 06/06/1996, sam@email.com, Technician, 48000
+Rachel, 1004, 04/12/1956, rachel@email.com, General Manager, 100000
+Max, 1005, 27/05/1982, max@email.com, Technical Specialist, 85000
+Jade, 1006, 12/09/1964, jade@email.com, Scientist, 70000
